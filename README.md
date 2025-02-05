@@ -4,6 +4,7 @@
 
 - <b>DirectX11</b>
   - [Madeline](https://github.com/TonyRoldan/DirectX11-Madeline)
+  - [Galleons of the Galaxy](https://github.com/TonyRoldan/DirectX11-GalleonsOfTheGalaxy)
 
 <h2>📺 YouTube Videos</h2>
 
